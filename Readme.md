@@ -12,8 +12,8 @@ python2 KumanDownloader.py <target url> [split folder=True]
 
 ## Example
 ```bash
-python2 http://www.kuman.com/mh-1001733/
-python2 http://www.kuman.com/mh-1001733/ false
+python2 KumanDownloader.py http://www.kuman.com/mh-1001733/
+python2 KumanDownloader.py http://www.kuman.com/mh-1001733/ false
 ```
 ***
 
